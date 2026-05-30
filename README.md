@@ -24,11 +24,14 @@ I build end-to-end data solutions — SQL pipelines, predictive models in Python
 
 ## 📊 Featured Projects
 
-🚧 *Project repositories coming soon — watch this space.*
+### [📈 Texas Grid Load Analytics — ERCOT 2020-2024](https://github.com/JonathanMcCord/texas-ercot-load-analytics)
+End-to-end analysis of 5 years of ERCOT hourly grid load data, featuring a Winter Storm Uri case study. Built in Python, SQL, and Power BI. **Highlights:** SQL ETL on 43,848 hourly records, predictive analysis, and an interactive dashboard.
 
-- **Loan Delinquency Risk Pipeline** — End-to-end analytics solution (SQL ETL on 35,000+ records → Python risk scoring → 3-page interactive Power BI dashboard)
-- **Hospital Readmissions Risk Model** — Logistic regression classifier in Python (scikit-learn) predicting 30-day readmission risk
-- **Interactive COVID-19 Dashboard** — Tableau dashboard with parameter-driven filtering for trend exploration
+### 🚧 Loan Delinquency Risk Pipeline *(coming soon)*
+End-to-end analytics solution (SQL ETL on 35,000+ records → Python risk scoring → 3-page interactive Power BI dashboard) for credit union collections prioritization.
+
+### 🚧 Hospital Readmissions Risk Model *(coming soon)*
+Logistic regression classifier in Python (scikit-learn) predicting 30-day readmission risk, with Power BI visualization.
 
 ---
 

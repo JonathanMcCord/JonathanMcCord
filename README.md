@@ -30,8 +30,8 @@ End-to-end analysis of 5 years of ERCOT hourly grid load data, featuring a Winte
 ### [💳 Credit Union Loan Delinquency Analytics](https://github.com/JonathanMcCord/eecu-loan-delinquency-analytics)
 End-to-end analytics simulating a Texas credit union: synthetic data generation → SQL cleaning of 35,000+ payment records → Python risk scoring → interactive Power BI dashboard with drill-through navigation. Built for a collections team to prioritize outreach to high-risk members.
 
-### 🚧 Hospital Readmissions Risk Model *(coming soon)*
-Logistic regression classifier in Python (scikit-learn) predicting 30-day readmission risk, with Power BI visualization.
+### [🩺 Predicting Type 2 Diabetes from NHANES 2021](https://github.com/JonathanMcCord/diabetes-prediction-nhanes)
+Graduate applied-ML project in R comparing logistic regression, LDA, random forest, and SVM classifiers on CDC NHANES public health data. Built for DSCI 610 — Data Science for Health Information (Ball State University MS Data Science). Includes a 12-page academic report and presentation deck.
 
 ---
 

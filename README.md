@@ -18,7 +18,6 @@ I build end-to-end data solutions — SQL pipelines, predictive models in Python
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **Data Modeling & Engineering** 
-
 ![Star Schema](https://img.shields.io/badge/-Star_Schema-4B0082?style=flat&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/-ETL_Pipelines-2C3E50?style=flat&logo=apacheairflow&logoColor=white) ![Power Query / M](https://img.shields.io/badge/-Power_Query_/_M-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Platforms & Tools**  

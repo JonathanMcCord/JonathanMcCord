@@ -9,7 +9,7 @@ I build end-to-end data solutions — SQL pipelines, predictive models in Python
 ## 🛠️ Tech Stack
 
 **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![DAX](https://img.shields.io/badge/-DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Data & Analytics**  
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
@@ -18,7 +18,7 @@ I build end-to-end data solutions — SQL pipelines, predictive models in Python
 ![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 **Data Modeling & Engineering** 
-![Star Schema](https://img.shields.io/badge/Star_Schema-4B0082?style=for-the-badge&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-2C3E50?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Power Query / M](https://img.shields.io/badge/Power_Query_/_M-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Star Schema](https://img.shields.io/badge/-Star_Schema-4B0082?style=flat&logoColor=white) ![ETL Pipelines](https://img.shields.io/badge/-ETL_Pipelines-2C3E50?style=flat&logo=apacheairflow&logoColor=white) ![Power Query / M](https://img.shields.io/badge/-Power_Query_/_M-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 **Platforms & Tools**  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)

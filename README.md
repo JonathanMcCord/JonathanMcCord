@@ -36,6 +36,12 @@ End-to-end analytics simulating a Texas credit union: synthetic data generation 
 ### [🩺 Predicting Type 2 Diabetes from NHANES 2021](https://github.com/JonathanMcCord/diabetes-prediction-nhanes)
 Graduate applied-ML project in R comparing logistic regression, LDA, random forest, and SVM classifiers on CDC NHANES public health data. Built for DSCI 610 — Data Science for Health Information (Ball State University MS Data Science). Includes a 12-page academic report and presentation deck.
 
+### [🚗 Travis County Crash Analytics — Austin Roadway Safety](https://github.com/JonathanMcCord/texas-crash-analytics-tableau)
+
+End-to-end analytics on 55,563 Travis County crash records (2022-2024). Python ETL pipeline plus interactive Tableau Public dashboard.
+🔗 [Live Tableau Dashboard](https://public.tableau.com/app/profile/jonathan.mccord/viz/TravisCountyCrashAnalytics2022-2024/Dashboard)
+
+
 ---
 
 ## 🎓 Currently
